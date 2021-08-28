@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/drawable/gradient.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/layout/activity_a.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/layout/activity_gonderme.xml" value="0.1296875" />
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/layout/activity_grublar.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/layout/activity_login.xml" value="0.115625" />
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/layout/activity_maps.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/layout/grub_layout.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/layout/user_layout.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/android projeleri/location/app/src/main/res/menu/add_map.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/location/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/HP/Desktop/location/app/src/main/res/layout/activity_maps.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/HP/Desktop/location/app/src/main/res/menu/add_map.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
